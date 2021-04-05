@@ -2,7 +2,7 @@
 title:  "5"
 #subtitle: "Disciplines Offered"
 author: "Luan Moises "
-image: "img/mentoring/mentoring.jpg"
+image: "img/family1.png"
 ---
 
 ______________________________________
