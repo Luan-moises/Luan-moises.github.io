@@ -2,7 +2,7 @@
 title:  "2"
 #subtitle: "Only lights from space"
 author: "José Vitor Novaes"
-image: "img/mentoring/mentoring.jpg"
+image: "img/mentoring/mentoring(2).jpg"
 date:   2019-01-01 12:12:12
 ---
 

@@ -2,7 +2,7 @@
 title:  "6"
 #subtitle: "teste."
 author: "José Vitor Novaes"
-image: "img/mentoring/mentoring.jpg"
+image: "img/mentoring/mentoring(1).jpg"
 date:   2019-01-01 12:12:12
 ---
 
