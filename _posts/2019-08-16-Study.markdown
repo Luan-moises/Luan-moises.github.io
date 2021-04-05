@@ -1,8 +1,8 @@
 ---
-title:  "POKEMON EVENTS R$"
+title:  "6"
 #subtitle: "teste."
 author: "José Vitor Novaes"
-image: "img/Blog/card_img.jpg"
+image: "img/mentoring/mentoring.jpg"
 date:   2019-01-01 12:12:12
 ---
 

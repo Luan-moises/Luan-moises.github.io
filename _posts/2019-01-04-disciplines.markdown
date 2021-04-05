@@ -1,5 +1,5 @@
 ---
-title:  "FULL POKEDEX USD$"
+title:  "5"
 #subtitle: "Disciplines Offered"
 author: "Luan Moises "
 image: "img/mentoring/mentoring.jpg"
