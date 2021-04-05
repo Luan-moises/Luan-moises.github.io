@@ -1,8 +1,8 @@
 ---
 title:  "FULL POKEDEX USD$"
 #subtitle: "Disciplines Offered"
-author: "José Vitor Novaes "
-image: "img/teaching/Disciplinas.jpg"
+author: "Luan Moises "
+image: "img/mentoring/mentoring.jpg"
 ---
 
 ______________________________________
