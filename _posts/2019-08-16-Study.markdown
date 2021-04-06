@@ -1,5 +1,5 @@
 ---
-title:  "IC topologia algébrica"
+title:  "Topologia algébrica"
 #subtitle: "teste."
 author: "Luan Moieses"
 image: "img/projects/projects.jpg"
@@ -7,12 +7,7 @@ date:   2019-01-01 12:12:12
 ---
 
 
-*LEIA TUDO ANTES DE COMPRAR*
-- O pacote custa 40$ independente da forma de pagamento.
-- Escolha "retirar com o vendedor" se a compra for feita pelo ML(Mercado Livre) para evitar que você pague frete.
-- Satisfação ou seu dinheiro de volta!!!!
-- Não é uma troca! Você não precisa ter nenhum pokemon para me dar em troca, eu vou passar direto para seu aplicativo Pokemon Home. Se você for novo no Home, eu ensino as etapas, é muito fácil.
-
+*Iniciação Científica em topologia algébrica*
 
 
 **O PACOTE POSSUI**
