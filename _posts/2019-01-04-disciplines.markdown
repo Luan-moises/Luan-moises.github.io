@@ -25,26 +25,24 @@ Talvez essa seja a beleza da vida, devemos aceitar a falta de algumas coisas em 
 
 **Do meu amigo Otávio**
 
-<P> Lua(n)
-Numa noite estrelada,
+<P> Lua(n) 
+<P>Numa noite estrelada,
 A Lua,
 Esse astro dual,
-Nos mostra sua face iluminada
+Nos mostra sua face iluminada<P>
 
-O que não vemos, porém,
+<P>O que não vemos, porém,
 Guarda segredos
 Jamais vistos
-Jamais conhecidos
+Jamais conhecidos<P>
 
-Mas a Lua,
+<P>Mas a Lua,
 Em sua inteireza,
 Entrega todo seu ser
 Para resplandecer
 E alegrar
-Todos aqueles que a presenciam
+Todos aqueles que a presenciam<P>
 
-Será essa Lua uma lua qualquer?
-
-<P>
+<P>Será essa Lua uma lua qualquer?<P>
 
 
