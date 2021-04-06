@@ -1,7 +1,7 @@
 ---
 title:  "Topologia algébrica"
 #subtitle: "teste."
-author: "Luan Moieses"
+author: "Luan Moises"
 image: "img/projects/projects.jpg"
 date:   2019-01-01 12:12:12
 ---
@@ -20,7 +20,7 @@ date:   2019-01-01 12:12:12
 
 **Topologia Algébrica.**
 
-A topologia algébrica é um ramo da Matemática que faz a ligação entre a Topologia e a Álgebra. De forma que utilize a álgebra para estudar e resolver os problemas de topologia, sendo valida a recíproca.
+A topologia algébrica é um ramo da Matemática que faz a ligação entre a Topologia e a Álgebra. De forma que utilize a álgebra para estudar e resolver os problemas de topologia, sendo válida a recíproca.
 
  Mais precisamente, associando a cada espaço topológico, uma estrutura algébrica, e a partir das propriedades algébricas dessa extraímos propriedades topológicas daquele. Os exemplos mais importantes de tais funtores são os grupos de homotopia e os grupos de homologia entre os quais daremos um maior foco para a homotopia e o estudo de grupo fundamental.
 
