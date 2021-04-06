@@ -6,7 +6,7 @@ image: "img/family1.png"
 ---
 
 ______________________________________
-**Em construção**
+##Vida
 
 
 <P> Um dia descobrimos que beijar uma pessoa para esquecer outra é bobagem.
@@ -23,7 +23,7 @@ Um dia percebemos que  esquecemos de deitar no chão e apenas sentirmos o moment
 Talvez essa seja a beleza da vida, devemos aceitar a falta de algumas coisas em nossas vidas e escolher as prioritariás.<P>
 
 
-**Meu texto**
+##Poema feito pra mim pelo Otávio
 
 <P> Lua(n) 
 <P>Numa noite estrelada,
@@ -45,6 +45,4 @@ Todos aqueles que a presenciam<P>
 
 <P>Será essa Lua uma lua qualquer?<P>
 
-
-**Do meu amigo Otávio**
 
