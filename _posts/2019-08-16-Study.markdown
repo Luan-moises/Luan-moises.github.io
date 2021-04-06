@@ -1,8 +1,8 @@
 ---
-title:  "6"
+title:  "IC topologia algébrica"
 #subtitle: "teste."
 author: "Luan Moieses"
-image: "img/mentoring/mentoring(1).jpg"
+image: "img/projects/projects.jpg"
 date:   2019-01-01 12:12:12
 ---
 
