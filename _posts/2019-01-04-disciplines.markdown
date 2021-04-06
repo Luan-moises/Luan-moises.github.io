@@ -23,7 +23,7 @@ Um dia percebemos que  esquecemos de deitar no chão e apenas sentirmos o moment
 Talvez essa seja a beleza da vida, devemos aceitar a falta de algumas coisas em nossas vidas e escolher as prioritariás.<P>
 
 
-**Do meu amigo Otávio**
+**Meu texto**
 
 <P> Lua(n) 
 <P>Numa noite estrelada,
@@ -45,4 +45,6 @@ Todos aqueles que a presenciam<P>
 
 <P>Será essa Lua uma lua qualquer?<P>
 
+
+**Do meu amigo Otávio**
 
